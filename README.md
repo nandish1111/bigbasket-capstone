@@ -201,7 +201,7 @@ The log contains exactly two RCTCF-structured prompts:
 2. **Prompt 2:** Pandas IQR Outlier Capping
 
 The verification steps in `ai_log.md` document how the generated guidance was tested against the project data.
-```
+
 ## Part 4 Notebook
 
 The complete Python/Pandas cleaning, analysis, visualization, and cross-validation work is available in:
