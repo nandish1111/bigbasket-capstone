@@ -79,7 +79,7 @@ bigbasket-capstone/
 ├── DATA_STORY.md
 ├── ai_log.md
 └── README.md
-
+```
 ### File Description
 
 | File | Purpose |
