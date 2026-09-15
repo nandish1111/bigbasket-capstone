@@ -186,7 +186,7 @@ From the project folder, run:
 
 ```bash
 python generate_data.py
-
+```
 ## AI-Assisted Analysis
 
 AI assistance was used during the project to support SQL and Pandas learning and debugging.
