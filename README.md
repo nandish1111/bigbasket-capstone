@@ -95,7 +95,7 @@ bigbasket-capstone/
 | `verify.sql` | Part 1 database and status-count verification |
 | `bigbasket_revenue_analysis.xlsx` | Google Sheets/Excel cross-check from Part 2 |
 | `analysis.ipynb` | Python/Pandas cleaning, analysis, visualization, and cross-validation |
-| `part1.ipynb` | Part 1 supporting notebook |
+| `Part-1.ipynb` | Part 1 supporting notebook |
 | `DATA_STORY.md` | Business data story and recommendations |
 | `ai_log.md` | AI-assisted prompting log containing the two RCTCF prompts |
 | `README.md` | Project documentation and submission guide |
@@ -201,7 +201,7 @@ The log contains exactly two RCTCF-structured prompts:
 2. **Prompt 2:** Pandas IQR Outlier Capping
 
 The verification steps in `ai_log.md` document how the generated guidance was tested against the project data.
-
+```
 ## Part 4 Notebook
 
 The complete Python/Pandas cleaning, analysis, visualization, and cross-validation work is available in:
